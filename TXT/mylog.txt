@@ -1,0 +1,6 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC WEEK00 15 L06 References/Books/Documents/GSGS related
+ZCZC WEEK00 10 L11 Assignment #01
+ZCZC WEEK00 10 L12 Assignment #02
