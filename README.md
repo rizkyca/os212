@@ -1,4 +1,4 @@
-# Hi Welcome To My Page!👨🏼‍💻
+# Welcome To My Page!👨🏼‍💻
 
 ## My Name is Mohammad **Rizky** Chairul Azizi👋🏼
 
