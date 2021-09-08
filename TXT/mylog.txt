@@ -16,3 +16,5 @@ ZCZC W01 45 L06 References/Books/Documents/GSGS related
 ZCZC W01 05 L22 Quiz
 ZCZC W01 100 L02 ZOOM meetings related
 ZCZC W01 10 L01 SCELE/Discord related
+ZCZC W01 35 L11 Assignment #01
+ZCZC W01 50 L12 Assignment #02
