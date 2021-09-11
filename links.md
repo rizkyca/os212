@@ -1,9 +1,9 @@
----
+**---
 layout: "layout"
 permalink: /LINKS/
----
+---**
 
-# USEFUL LINKS FOR OS!
+# Useful Links for OS!
 ### 1. [OS 101: What is Operating System?](https://www.mygreatlearning.com/blog/what-is-operating-system/)<br>
 Link ini merupakan begginers guide untuk memahami OS secara mendasar. Kita akan diperkenalkan dengan OS baik dari definisi, sejarah, kegunaan, komponen, dan jenis-jenisnya. Setelah membaca link ini, saya menjadi cukup paham tentang apa itu OS.
 ### 2. [Intro to Github](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)<br>
