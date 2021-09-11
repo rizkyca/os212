@@ -1,7 +1,7 @@
-**---
-layout: "layout"
-permalink: /LINKS/
----**
+---
+**layout: "layout"
+permalink: /LINKS/**
+---
 
 # Useful Links for OS!
 ### 1. [OS 101: What is Operating System?](https://www.mygreatlearning.com/blog/what-is-operating-system/)<br>
