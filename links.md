@@ -1,6 +1,6 @@
 ---
-**layout: "layout"
-permalink: /LINKS/**
+layout: "layout"
+permalink: /LINKS/
 ---
 
 # Useful Links for OS!
