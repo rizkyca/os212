@@ -33,3 +33,7 @@ ZCZC W01 20 L19 Assignment #09
 ZCZC W02 40 L06 References/Books/Documents/GSGS related
 ZCZC W02 20 L22 Quiz
 ZCZC W02 100 L02 ZOOM meetings related
+ZCZC W02 20 L32 YouTube: study, etc.
+ZCZC W02 15 L04 GitHub Pages related
+ZCZC W02 40 L02 ZOOM meetings related
+ZCZC W02 25 L06 References/Books/Documents/GSGS related
