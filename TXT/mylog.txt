@@ -37,3 +37,4 @@ ZCZC W02 20 L32 YouTube: study, etc.
 ZCZC W02 15 L04 GitHub Pages related
 ZCZC W02 40 L02 ZOOM meetings related
 ZCZC W02 25 L06 References/Books/Documents/GSGS related
+ZCZC W02 90 L09 Assignment Week 02
