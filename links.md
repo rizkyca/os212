@@ -15,6 +15,6 @@ Kata Linux akan sering kita dengar dalam belajar OS ini. Link ini menyajikan pem
 ### 5. [Bash Cheat Sheet](https://www.educative.io/blog/bash-shell-command-cheat-sheet)<br>
 Cheat sheet ini akan membantu kita dalam menggunakan command line Virtual Box yang menggunakan bash. Dengam membaca ini, saya jadi tau beberapa bash command yang sering dipakai.
 ### 6. [What is Cyber Security?](https://www.youtube.com/watch?v=ooJSgsB5fIE)<br>
-Video ini mengenalkan tentang cyber security dan mengapa itu penting untuk dimiliki. Materi dari video ini sangat mudah diterima karena dibantu dengan visual gambar yang menarik.
+Video ini mengenalkan tentang cyber security dan mengapa itu penting untuk dimiliki. Materi dari video ini cukup mudah untuk dipahami karena dibantu dengan visual gambar yang menarik.
 ### 7. [C-Cheat Sheet](https://developerinsider.co/c-programming-language-cheat-sheet/)<br>
 Jika ingin mulai memahami bahasa pemrograman C, maka cheat sheet ini adalah jawabannya. Konten di web ini dibagi menjadi beberapa section yang dapat memudahkan pembaca dalam mencari materi yang dibutuhkan.
