@@ -53,5 +53,13 @@ ZCZC W02 10 L09 Assignment Week 02 No.13
 ZCZC W03 45 L06 References/Books/Documents/GSGS related
 ZCZC W03 20 L22 Quiz
 ZCZC W03 100 L02 ZOOM meetings related
-ZCZC W03 65 L09 Assignment in General: Assignment Week 03
-ZCZC W03 05 L04 GitHub Pages related
+ZCZC W03 55 L09 Assignment Week 03 No.1
+ZCZC W03 15 L09 Assignment Week 03 No.2 
+ZCZC W03 45 L09 Assignment Week 03 No.3 
+ZCZC W03 05 L09 Assignment Week 03 No.4 
+ZCZC W03 15 L09 Assignment Week 03 No.5 
+ZCZC W03 40 L02 ZOOM meetings related
+ZCZC W03 25 L09 Assignment Week 03 No.6
+ZCZC W03 15 L09 Assignment Week 03 No.7 
+ZCZC W03 05 L09 Assignment Week 03 No.8 
+ZCZC W03 10 L09 Assignment Week 03 No.9 
