@@ -25,5 +25,5 @@ Jika ingin mulai memahami bahasa pemrograman C, maka cheat sheet ini adalah jawa
 Minggu ini kita telah mempelajari file system. Link ini memberikan penjelasan dengan bantuan tabel dan ilustrasi yang memudahkan pembaca dalam memahami materinya. Beberapa hal yang dibahas adalah jenis file, level dan struktur direktori, sampai metode alokasi file.
 ### 9. [/dev Directory](http://www.linux-databook.info/?page_id=5108)<br>
 Di link ini kita diberikan data flow dari perintah khas untuk divisualisasikan. Ada juga klasifikasi serta tutorial dalam membuat file device. Membaca materi ini sepenting memahami dan mengetahui letak direktori kita.
-### [File System Concept](https://youtu.be/mzUyMy7Ihk0)<br>
+### 10. [File System Concept](https://youtu.be/mzUyMy7Ihk0)<br>
 Jika lebih nyaman dengan pembelajaran audiovisual maka link ini akan sangat membantu dalam mempelajari konsep file system. Durasi videonya pun tidak panjang karena materi dibahas dengan ringkas. Diagram pohon yang disajikan juga memudahkan kita dalam memahami tatanan dari file system yang dibahas.
