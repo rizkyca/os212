@@ -4,6 +4,7 @@ permalink: /LINKS/
 ---
 
 # Useful Links for OS!
+## WEEK 01<br>
 ### 1. [OS 101: What is Operating System?](https://www.mygreatlearning.com/blog/what-is-operating-system/)<br>
 Link ini merupakan begginers guide untuk memahami OS secara mendasar. Kita akan diperkenalkan dengan OS baik dari definisi, sejarah, kegunaan, komponen, dan jenis-jenisnya. Setelah membaca link ini, saya menjadi cukup paham tentang apa itu OS.
 ### 2. [Intro to Github](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)<br>
@@ -14,6 +15,7 @@ Kita akan menggunakan markdown scripting di Github. Link ini bisa dijadikan seba
 Kata Linux akan sering kita dengar dalam belajar OS ini. Link ini menyajikan pembahasan Linux secara overview yang dilanjuti dengan cara kerjanya.
 ### 5. [Bash Cheat Sheet](https://www.educative.io/blog/bash-shell-command-cheat-sheet)<br>
 Cheat sheet ini akan membantu kita dalam menggunakan command line Virtual Box yang menggunakan bash. Dengam membaca ini, saya jadi tau beberapa bash command yang sering dipakai.
+## WEEK 02<br>
 ### 6. [What is Cyber Security?](https://www.youtube.com/watch?v=ooJSgsB5fIE)<br>
 Video ini mengenalkan tentang cyber security dan mengapa itu penting untuk dimiliki. Materi dari video ini cukup mudah untuk dipahami karena dibantu dengan visual gambar yang menarik.
 ### 7. [C-Cheat Sheet](https://developerinsider.co/c-programming-language-cheat-sheet/)<br>
