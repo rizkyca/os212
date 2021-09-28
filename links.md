@@ -27,3 +27,10 @@ Minggu ini kita telah mempelajari file system. Link ini memberikan penjelasan de
 Di link ini kita diberikan data flow dari perintah khas untuk divisualisasikan. Ada juga klasifikasi serta tutorial dalam membuat file device. Membaca materi ini sepenting memahami dan mengetahui letak direktori kita.
 ### 10. [File System Concept](https://youtu.be/mzUyMy7Ihk0)<br>
 Jika lebih nyaman dengan pembelajaran audiovisual maka link ini akan sangat membantu dalam mempelajari konsep file system. Durasi videonya pun tidak panjang karena materi dibahas dengan ringkas. Diagram pohon yang disajikan juga memudahkan kita dalam memahami tatanan dari file system yang dibahas.
+## WEEK 04<br>
+### 11. [Linux Libraries](http://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html)<br>
+Di link ini kita akan tau mengapa kita perlu menggunakan library. Tipe-tipe dari library juga dikupas tuntas di link ini seperti static dan dynamically linked "shared object". 
+### 12. [Logical vs Physical Address in OS](https://www.youtube.com/watch?v=8FSZfCbM_hA)<br>
+Jika masih bingung dengan perbedaan logical dan physical address di OS, mungkin video ini bisa membantu. Karena penjelasannya dibahas dengan detil serta gambaran yang rapih.
+### 13. [Paging in Operating Systems](https://www.studytonight.com/operating-system/paging-in-operating-systems)<br>
+Beberapa hal yang diajarkan di link ini adalah tentang basic method paging, page table, dan look-aside buffer. Keuntungan dan kerugian dari paging pun dijelaskan pula di sini. Jangan lupa untuk baca sampai akhir karena ada contoh paging yang disajikan di sana:).
