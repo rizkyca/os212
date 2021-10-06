@@ -37,5 +37,5 @@ Beberapa hal yang diajarkan di link ini adalah tentang basic method paging, page
 ## WEEK 05<br>
 ### 14. [OS Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
 Link ini dapat membantu Anda untuk memahami virtual memory dalam OS. Di link ini dibahas mulai dari definisi, keuntungan, dan hal lainnya seperti thrashing. Pembahasan tentang penyebab dan recovery thrashing juga dibahas lebih lanjut di sini.
-### 15. [Memory Allocation]https://www.youtube.com/watch?v=FrTttJLN7Kw()<br>
+### 15. [Memory Allocation](https://www.youtube.com/watch?v=FrTttJLN7Kw)<br>
 Video ini membahas tentang teknik managemen memory. Beberapa teknik tersebut adalah contiguous and non-contiguous. Menurut saya video ini dibahas dengan cukup detil dan jelas.
