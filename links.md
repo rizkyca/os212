@@ -34,3 +34,8 @@ Di link ini kita akan tau mengapa kita perlu menggunakan library. Tipe-tipe dari
 Jika masih bingung dengan perbedaan logical dan physical address di OS, mungkin video ini bisa membantu. Karena penjelasannya dibahas dengan detil serta gambaran yang rapih.
 ### 13. [Paging in Operating Systems](https://www.studytonight.com/operating-system/paging-in-operating-systems)<br>
 Beberapa hal yang diajarkan di link ini adalah tentang basic method paging, page table, dan look-aside buffer. Keuntungan dan kerugian dari paging pun dijelaskan pula di sini. Jangan lupa untuk baca sampai akhir karena ada contoh paging yang disajikan di sana:)
+## WEEK 05<br>
+### 14. [OS Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+Link ini dapat membantu Anda untuk memahami virtual memory dalam OS. Di link ini dibahas mulai dari definisi, keuntungan, dan hal lainnya seperti thrashing. Pembahasan tentang penyebab dan recovery thrashing juga dibahas lebih lanjut di sini.
+### 15. [Memory Allocation]https://www.youtube.com/watch?v=FrTttJLN7Kw()<br>
+Video ini membahas tentang teknik managemen memory. Beberapa teknik tersebut adalah contiguous and non-contiguous. Menurut saya video ini dibahas dengan cukup detil dan jelas.
