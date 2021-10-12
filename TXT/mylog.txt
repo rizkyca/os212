@@ -95,3 +95,17 @@ ZCZC W05 10 L09 Assignment Week 03 No.7
 ZCZC W05 05 L04 GitHub Pages related
 ZCZC W05 10 L09 Assignment Week 03 No.8 
 ZCZC W05 05 L09 Assignment Week 03 No.9 
+ZCZC W06 50 L06 References/Books/Documents/GSGS related
+ZCZC W06 20 L22 Quiz
+ZCZC W06 100 L02 ZOOM meetings related
+ZCZC W06 30 L09 Assignment Week 06 No.1
+ZCZC W06 35 L09 Assignment Week 06 No.2 
+ZCZC W06 40 L09 Assignment Week 06 No.3 
+ZCZC W06 15 L09 Assignment Week 06 No.4 
+ZCZC W06 20 L09 Assignment Week 06 No.5 
+ZCZC W06 40 L02 ZOOM meetings related
+ZCZC W06 10 L09 Assignment Week 06 No.7 
+ZCZC W06 05 L04 GitHub Pages related
+ZCZC W06 10 L09 Assignment Week 06 No.8 
+ZCZC W06 10 L64 Helping OS related problem to a friend
+ZCZC W06 05 L09 Assignment Week 06 No.9 
