@@ -39,3 +39,8 @@ Beberapa hal yang diajarkan di link ini adalah tentang basic method paging, page
 Link ini dapat membantu Anda untuk memahami virtual memory dalam OS. Di link ini dibahas mulai dari definisi, keuntungan, dan hal lainnya seperti thrashing. Pembahasan tentang penyebab dan recovery thrashing juga dibahas lebih lanjut di sini.
 ### 15. [Memory Allocation](https://www.youtube.com/watch?v=FrTttJLN7Kw)<br>
 Video ini membahas tentang teknik managemen memory. Beberapa teknik tersebut adalah contiguous and non-contiguous. Menurut saya video ini dibahas dengan cukup detil dan jelas.
+## WEEK 06<br>
+### 16. [OS Processes](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/3_Processes.html)<br>
+Link ini akan memberikan Anda pengetahuan seputar process pada OS. Beberapa hal yang dibahas di sini adalah process concept seperti process state lalu ada process scheduling seperti scheduling queues dan masih banyak lagi.
+### 17. [Processes Full Pack!](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgKl0MbI6kbI5ffNt7BF8Fn)<br>
+Link ini adalah playlist untuk video-video materi tentang process. Playlist ini sangat lengkap dan pembahasannya pun sangat detil, very recommended!
