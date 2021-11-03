@@ -44,3 +44,8 @@ Video ini membahas tentang teknik managemen memory. Beberapa teknik tersebut ada
 Link ini akan memberikan Anda pengetahuan seputar process pada OS. Beberapa hal yang dibahas di sini adalah process concept seperti process state lalu ada process scheduling seperti scheduling queues dan masih banyak lagi.
 ### 17. [Processes Full Pack!](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgKl0MbI6kbI5ffNt7BF8Fn)<br>
 Link ini adalah playlist untuk video-video materi tentang process. Playlist ini sangat lengkap dan pembahasannya pun sangat detil, very recommended!
+## WEEK 07<br>
+### 18. [Operating System Synchronization Process](https://www.youtube.com/watch?v=ph2awKa8r5Y)<br>
+Video ini menjelaskan secara detil tentang proses sinkronisasi pada sistem operasi. Beberapa hal yang dijelaskan adalah cooperating processes, shared memory systems, dan producer-consumer problem. Link ini sangat cocok untuk Anda yang membutuhkan visualisasi dalam pembelajaran.
+### 19. [Deadlock in Operating System](https://www.guru99.com/deadlock-in-operating-system.html)<br>
+Link ini akan menjabarkan mulai dari pengertian dan contoh deadlock. Selain itu, ada juga penjelasan tentang perbedaan deadlock dengan starvation. Penjelasan di link ini cukup panjang tapi materi yang disampaikan sangat bermanfaat.
