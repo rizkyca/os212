@@ -49,3 +49,8 @@ Link ini adalah playlist untuk video-video materi tentang process. Playlist ini 
 Video ini menjelaskan secara detil tentang proses sinkronisasi pada sistem operasi. Beberapa hal yang dijelaskan adalah cooperating processes, shared memory systems, dan producer-consumer problem. Link ini sangat cocok untuk Anda yang membutuhkan visualisasi dalam pembelajaran.
 ### 19. [Deadlock in Operating System](https://www.guru99.com/deadlock-in-operating-system.html)<br>
 Link ini akan menjabarkan mulai dari pengertian dan contoh deadlock. Selain itu, ada juga penjelasan tentang perbedaan deadlock dengan starvation. Penjelasan di link ini cukup panjang tapi materi yang disampaikan sangat bermanfaat.
+## WEEK 08<br>
+### 20. [CPU Scheduling in Operating System](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/6_CPU_Scheduling.html)<br>
+Link ini akan membahas secara tuntas tentang cpu scheduling pada OS. Saya suka karena pembahasan dibahas dari bagian besar yang dibagi menjadi subbab subbab kecil. Visualisasi data yang diberikan juga sangat membantu dalam memahami materinya.
+### 21. [Process Model in Operating System: Two State](https://www.youtube.com/watch?v=6BzAVDG7GM4)<br>
+Bahasan yang dijabarkan tidak selengkap dengan web-web yang saya temukan. Namun, ini terasa lebih cocok bagi saya yang lebih mudah paham jika diterangkan seseorang. Saya menjadi paham dengan konsep dasar dari two state process model pada OS.
