@@ -123,3 +123,18 @@ ZCZC W07 10 L09 Assignment Week 07 No.8
 ZCZC W07 05 L04 GitHub Pages related
 ZCZC W07 05 L09 Assignment Week 07 No.9 
 ZCZC W07 10 L64 Helping OS related problem to a friend
+ZCZC W08 45 L06 References/Books/Documents/GSGS related
+ZCZC W08 20 L22 Quiz
+ZCZC W08 100 L02 ZOOM meetings related
+ZCZC W08 30 L09 Assignment Week 08 No.1
+ZCZC W08 45 L09 Assignment Week 08 No.2 
+ZCZC W08 40 L09 Assignment Week 08 No.3 
+ZCZC W08 45 L09 Assignment Week 08 No.4 
+ZCZC W08 50 L09 Assignment Week 08 No.5 
+ZCZC W08 40 L02 ZOOM meetings related
+ZCZC W08 25 L09 Assignment Week 08 No.6 
+ZCZC W08 15 L09 Assignment Week 08 No.8 
+ZCZC W08 05 L04 GitHub Pages related
+ZCZC W08 05 L09 Assignment Week 08 No.9 
+ZCZC W08 05 L09 Assignment Week 08 No.10 
+ZCZC W08 10 L64 Helping OS related problem to a friend
