@@ -54,8 +54,3 @@ Link ini akan menjabarkan mulai dari pengertian dan contoh deadlock. Selain itu,
 Link ini akan membahas secara tuntas tentang cpu scheduling pada OS. Saya suka karena pembahasan dibahas dari bagian besar yang dibagi menjadi subbab subbab kecil. Visualisasi data yang diberikan juga sangat membantu dalam memahami materinya.
 ### 21. [Process Model in Operating System: Two State](https://www.youtube.com/watch?v=6BzAVDG7GM4)<br>
 Bahasan yang dijabarkan tidak selengkap dengan web-web yang saya temukan. Namun, ini terasa lebih cocok bagi saya yang lebih mudah paham jika diterangkan seseorang. Saya menjadi paham dengan konsep dasar dari two state process model pada OS.
-## WEEK 09<br>
-### 22. [What Is a Bootloader?](https://www.ionos.com/digitalguide/server/configuration/what-is-a-bootloader/)<br>
-Awalnya saya juga tidak tau dan tidak paham tentang bootloader. Namun, link ini membantu saya untuk paham dengan mengulasnya secara singkat dan tidak bertele-tele. Pembahasan dimulai dengan menjelaskan tentang pengertian sampai cara kerja. Di akhir juga disisipkan rangkuman yang cukup mengulas semua hal penting tentang bootloader.
-### 23. [What Is a Storage Array?](https://www.dnsstuff.com/storage-array)<br>
-Link ini akan menjelaskan mengenai apa itu storage array dan bagaimana cara kerjanya. Pembahasan difokuskan pada kaitannya dengan data server dan arsitektur disk. Cukup banyak hal yang dibahas di link ini seperti bagaimana cara meningkatkan performa dari storage array dan ciri-ciri arsitektur data center yang sudah modern.
